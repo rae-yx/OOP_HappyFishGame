@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="overlayPane" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/22">
+    <StackPane>
+        <Rectangle fx:id="dimBackground" fill="black" height="600" opacity="0.5" width="400" />
+
+        <Text fx:id="restartText" style="-fx-font-size: 24px; -fx-fill: white;" text="Press space to restart">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font></Text>
+    </StackPane>
+</AnchorPane>

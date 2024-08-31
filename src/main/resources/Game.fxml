@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="gameAp" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyPressed="#pressed" prefHeight="600.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GameController">
+   <children>
+      <ImageView fitHeight="600.0" fitWidth="400.0" pickOnBounds="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@background.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fx:id="fish" fitHeight="80.0" fitWidth="80.0" layoutX="160.0" layoutY="270.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@fish.png" />
+         </image>
+      </ImageView>
+
+      <ImageView fx:id="obstacleTopTemplate" fitHeight="200.0" fitWidth="60.0" layoutX="800.0" layoutY="0.0" pickOnBounds="true" preserveRatio="true" visible="false">
+         <Image url="@topObstacle.png" />
+      </ImageView>
+
+      <ImageView fx:id="obstacleBottomTemplate" fitHeight="200.0" fitWidth="60.0" layoutX="800.0" layoutY="400.0" pickOnBounds="true" preserveRatio="true" visible="false">
+         <Image url="@bottomObstacle.png" />
+      </ImageView>
+
+      <Text fx:id="scoreText" layoutX="14.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" wrappingWidth="120.0">
+         <font>
+            <Font name="Comic Sans MS" size="64.0" />
+         </font></Text>
+
+      <Text fx:id="hintText" fill="WHITE" layoutX="66.0" layoutY="392.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Press 'SPACE' to start!" wrappingWidth="268.0">
+         <font>
+            <Font name="Comic Sans MS" size="24.0" />
+         </font>
+      </Text>
+
+   </children>
+
+   <AnchorPane.topAnchor>0.0</AnchorPane.topAnchor>
+   <AnchorPane.bottomAnchor>0.0</AnchorPane.bottomAnchor>
+   <AnchorPane.leftAnchor>0.0</AnchorPane.leftAnchor>
+   <AnchorPane.rightAnchor>0.0</AnchorPane.rightAnchor>
+
+</AnchorPane>

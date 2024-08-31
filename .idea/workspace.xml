@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="finalproject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4168cfac-0643-4ba4-9820-82ab9de416a1" name="Changes" comment="Changed how time value is calculated to make it consistent">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../finalprojectv2-rae-yx\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="finalproject" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kjXTeHdZyu9aGq5rwuffXQzPc6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.GameApp.executor": "Run",
+    "Application.GameController.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Application.MyApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Neko/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Neko\IdeaProjects\finalprojectv2-rae-yx\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Neko\IdeaProjects\finalprojectv2-rae-yx\src\main\resources" />
+      <recent name="C:\Users\Neko\IdeaProjects\finalprojectv2-rae-yx\src\main\scala" />
+    </key>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4168cfac-0643-4ba4-9820-82ab9de416a1" name="Changes" comment="" />
+      <created>1723797968388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723797968388</updated>
+      <workItem from="1723797969503" duration="2158000" />
+      <workItem from="1723824944885" duration="10562000" />
+      <workItem from="1723872150880" duration="353000" />
+      <workItem from="1723915436278" duration="365000" />
+      <workItem from="1723952936793" duration="2705000" />
+      <workItem from="1724077674432" duration="261000" />
+      <workItem from="1724077950625" duration="49000" />
+      <workItem from="1724135803791" duration="1912000" />
+    </task>
+    <task id="LOCAL-00001" summary="Base File Structure and Directory">
+      <option name="closed" value="true" />
+      <created>1723799710380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723799710380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added src main scala">
+      <option name="closed" value="true" />
+      <created>1723799831697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723799831697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added obstacles and obstacle movement">
+      <option name="closed" value="true" />
+      <created>1723880631712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723880631712</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added overlay and functionality for restart game">
+      <option name="closed" value="true" />
+      <created>1723899424798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723899424798</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed background">
+      <option name="closed" value="true" />
+      <created>1723963754007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723963754007</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inheritance (GameObject)">
+      <option name="closed" value="true" />
+      <created>1723965224772</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723965224772</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Better fish">
+      <option name="closed" value="true" />
+      <created>1723993074558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723993074558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed obstacle gap and refactored some code">
+      <option name="closed" value="true" />
+      <created>1723998067570</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723998067570</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refactored some code (Missing parentheses)">
+      <option name="closed" value="true" />
+      <created>1724000369722</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724000369722</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactored some code (Missing parentheses)">
+      <option name="closed" value="true" />
+      <created>1724000496433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724000496433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Increase obstacle spawn interval over time">
+      <option name="closed" value="true" />
+      <created>1724045571566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724045571566</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added collision sound effect">
+      <option name="closed" value="true" />
+      <created>1724050302905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724050302905</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added swim sound effect">
+      <option name="closed" value="true" />
+      <created>1724054792315</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724054792315</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Refactored code (missing parentheses)">
+      <option name="closed" value="true" />
+      <created>1724055068286</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724055068286</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Big changes: Added a start page, made the game start on spacebar click">
+      <option name="closed" value="true" />
+      <created>1724081195511</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724081195511</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added startpage background">
+      <option name="closed" value="true" />
+      <created>1724083519979</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724083519979</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added startpage background">
+      <option name="closed" value="true" />
+      <created>1724083627994</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724083627994</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added startpage background">
+      <option name="closed" value="true" />
+      <created>1724085426724</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724085426724</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Changed how time value is calculated to make it consistent">
+      <option name="closed" value="true" />
+      <created>1724137067868</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724137067868</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base File Structure and Directory" />
+    <MESSAGE value="Added src main scala" />
+    <MESSAGE value="Added obstacles and obstacle movement" />
+    <MESSAGE value="Added overlay and functionality for restart game" />
+    <MESSAGE value="Changed background" />
+    <MESSAGE value="Inheritance (GameObject)" />
+    <MESSAGE value="Better fish" />
+    <MESSAGE value="Changed obstacle gap and refactored some code" />
+    <MESSAGE value="Refactored some code (Missing parentheses)" />
+    <MESSAGE value="Increase obstacle spawn interval over time" />
+    <MESSAGE value="Added collision sound effect" />
+    <MESSAGE value="Added swim sound effect" />
+    <MESSAGE value="Refactored code (missing parentheses)" />
+    <MESSAGE value="Big changes: Added a start page, made the game start on spacebar click" />
+    <MESSAGE value="Added startpage background" />
+    <MESSAGE value="Changed how time value is calculated to make it consistent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed how time value is calculated to make it consistent" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
